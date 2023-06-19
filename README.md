@@ -12,13 +12,13 @@
 - 📚 I’m currently enhancing my skills with Vue.js and Node.js.
 
 <a href="https://github.com/greydelta/">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=greydelta&theme=tokyonight_duo" alt="greydelta" style="margin-top: 25px"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=greydelta&theme=tokyonight_duo" alt="greydelta" style="margin-top: 25px" height="150px"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greydelta&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
 	alt="greydelta :: overall Top Langs " style="margin-left: 50px"/ />
 </a> 
 </p>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+_<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level._
 
   </p>
 
@@ -41,8 +41,5 @@
 	<a href="https://github.com/greydelta/cyk">
     		<img src="https://github-readme-stats.vercel.app/api/pin/?username=greydelta&repo=cyk&theme=tokyonight" alt="GitHub Stats" />
   	</a>
-   	<a href="https://github.com/greydelta/greydelta">
-     		<img src="https://github-readme-stats.vercel.app/api/pin/?username=greydelta&repo=greydelta&theme=tokyonight" alt="GitHub Stats" />
-   	</a>
   </p>
 </div>
