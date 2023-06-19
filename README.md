@@ -6,7 +6,7 @@
 
 [![Github](https://img.shields.io/github/followers/greydelta?label=Follow&style=for-the-badge)](https://github.com/greydelta) <img src="https://komarev.com/ghpvc/?username=greydelta&label=Views&color=brightgreen&style=for-the-badge" alt="views on github" />
 
-## I'm a Software Engineering underaduate
+## I'm a Software Engineering undergraduate
 
 - 👨‍💻 I’m full-stack developer that focuses on web development.
 - 📚 I’m currently enhancing my skills with Vue.js and Node.js.
